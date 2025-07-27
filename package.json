@@ -1,0 +1,22 @@
+{
+  "name": "smartsite-ai-wordpress-plugin",
+  "version": "1.0.0",
+  "description": "SmartSite AI - WordPress AI Page Builder Plugin",
+  "main": "smartsite-ai.php",
+  "scripts": {
+    "build": "echo 'No build process required for this WordPress plugin'",
+    "start": "echo 'This is a WordPress plugin - install it in your WordPress site'"
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "ai",
+    "page-builder"
+  ],
+  "author": "WP-Autoplugin",
+  "license": "GPL-2.0+",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wp-autoplugin/smartsite-ai"
+  }
+}
